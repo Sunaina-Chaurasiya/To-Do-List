@@ -10,7 +10,6 @@ This project helps users **add, update, mark complete, and delete tasks** in an 
 - ✅ Mark tasks as completed
 - ✏️ Edit existing tasks
 - ❌ Delete tasks
-- 📂 Persistent storage (if implemented)
 - 🎨 User-friendly interface
 
 ---
